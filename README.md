@@ -13,7 +13,4 @@
     <img src="https://skillicons.dev/icons?i=java,spring,postgres,redis,kafka,docker,maven,git&theme=dark" />
   </a>
 </p>
-
 ---
-
-<sub>ИТИС КФУ · Казань</sub>
